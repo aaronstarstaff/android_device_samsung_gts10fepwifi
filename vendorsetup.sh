@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_gts10fepwifi-user
-add_lunch_combo omni_gts10fepwifi-userdebug
-add_lunch_combo omni_gts10fepwifi-eng
+add_lunch_combo twrp_gts10fepwifi-user
+add_lunch_combo twrp_gts10fepwifi-userdebug
+add_lunch_combo twrp_gts10fepwifi-eng
