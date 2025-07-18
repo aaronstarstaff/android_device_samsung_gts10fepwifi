@@ -8,7 +8,3 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_gts10fepwifi.mk
 
-COMMON_LUNCH_CHOICES := \
-    twrp_gts10fepwifi-user \
-    twrp_gts10fepwifi-userdebug \
-    twrp_gts10fepwifi-eng

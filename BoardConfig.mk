@@ -39,6 +39,7 @@ DEXPREOPT_GENERATE_APEX_IMAGE := true
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := s5e8855
 TARGET_NO_BOOTLOADER := true
+TARGET_BOARD_INFO_FILE := device/samsung/gts10fepwifi/board-info.txt
 
 # Display
 TARGET_SCREEN_DENSITY := 320

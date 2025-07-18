@@ -1,0 +1,2 @@
+require board=gts10fepwifi
+require partition-exists=vendor_boot
